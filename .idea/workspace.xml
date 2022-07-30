@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="550f90d6-dbd8-40a7-8e55-110f25c46448" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fundamentos-kotlin/META-INF/fundamentos-kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fundamentos-kotlin/META-INF/fundamentos-kotlin.kotlin_module" afterDir="false" />
-    </list>
+    <list default="true" id="550f90d6-dbd8-40a7-8e55-110f25c46448" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
